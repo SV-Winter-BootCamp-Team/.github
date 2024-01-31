@@ -1,8 +1,15 @@
 # 꾸며Zoom
-<img src="https://github.com/SV-Winter-BootCamp-TeamD/backend/assets/41982054/5548c201-b987-4d7c-b1ab-16311ac0b6f5" width="300" height="300"/>
 <br>
+<div align="center">
+  <img src="https://github.com/SV-Winter-BootCamp-TeamD/backend/assets/41982054/f286c84a-4860-4611-94c4-95b94befc7f6" width="300" height="300"/>
+  
+  <br>
+  <br>
+  
+  ### AI를 활용한 가상 배경 꾸미는 서비스
+</div>
+
 <br>
-AI를 활용한 가상 배경 꾸미는 서비스
 <br>
 <br>
 <데모 GIF>
@@ -13,7 +20,7 @@ AI를 활용한 가상 배경 꾸미는 서비스
 <br>
 <br>
 
-📍System-Architecture
+## 📍System-Architecture
 <br>
 
 <img width="1126" alt="111Untitled" src="https://github.com/SV-Winter-BootCamp-TeamD/backend/assets/41982054/e6974ebb-5b4c-4f75-8d1e-5391078258c7">
@@ -21,8 +28,7 @@ AI를 활용한 가상 배경 꾸미는 서비스
 <br>
 <br>
 
-### ⚒️ Tech Stach
-<br>
+## ⚒️ Tech Stach
 <br>
 
 |Frontend|Backend|DB|Devops|Monitoring|Etc| 
@@ -33,10 +39,6 @@ AI를 활용한 가상 배경 꾸미는 서비스
 |<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=TypeScript&logoColor=white">|<img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=RabbitMQ&logoColor=white">||||<img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=Swagger&logoColor=white">|
 |<img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">|<img src="https://img.shields.io/badge/Celery-37814A?style=for-the-badge&logo=Celery&logoColor=white">||||<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=Figma&logoColor=white">|
 ||<img src="https://img.shields.io/badge/Gunicorn-499848?style=for-the-badge&logo=Gunicorn&logoColor=white">|||||
-
-
-
-
 
 
 
@@ -69,7 +71,6 @@ AI를 활용한 가상 배경 꾸미는 서비스
 
 ![U33ntitled](https://github.com/SV-Winter-BootCamp-TeamD/backend/assets/41982054/aa862aba-d526-4dee-b891-fb58d346260e)
 
-<br>
 <br>
 
 ## 🚀 How to Start
@@ -119,8 +120,7 @@ docker compose -f docker.compose.prod.yml up --build
 📂 Directory Structure
 <details>
   <summary>frontend</summary>
-    
-    ```jsx
+  
     frontend/
     ├── Dockerfile
     ├── README.md
@@ -312,7 +312,6 @@ docker compose -f docker.compose.prod.yml up --build
 <details>
   <summary><b>backend</b></summary>
      
-    ```jsx
     backend
     ├── Dockerfile
     ├── README.md
@@ -444,18 +443,15 @@ docker compose -f docker.compose.prod.yml up --build
         └── views.py
     ```
 </details>
- 
-    
 
-👨‍👩‍👧‍👦 Member
-<table>
-  <tbody>
-    <tr>
-      <td align="center"><a href=""><img src="" width="300px;" alt=""/><br /><sub><b>Frontend 팀장 : 백유진</b></sub></a><br /></td>
-      <td align="center"><a href=""><img src="" width="300px;" alt=""/><br /><sub><b>Frontend 팀원 : 김영준</b></sub></a><br /></td>
-      <td align="center"><a href=""><img src="" width="300px;" alt=""/><br /><sub><b>Backend 팀원 : 조희은</b></sub></a><br /></td>
-      <td align="center"><a href=""><img src="" width="300px;" alt=""/><br /><sub><b>Backend 팀원 : 고예진</b></sub></a><br /></td>
-      <td align="center"><a href=""><img src="" width="300px;" alt=""/><br /><sub><b>Backend 팀원 : 민정준</b></sub></a><br /></td>
-    </tr>
-  </tbody>
-</table>
+<div align="end">
+  <a href="#" class="btn--top">Top</a>
+</div>
+
+ ---
+## 👨‍👩‍👧‍👦 Member
+|Frontend<br>Leader|Frontend|Backend<br>DevOps|Backend|Backend|
+|:---:|:---:|:---:|:---:|:---:|
+|<img src="https://github.com/SV-Winter-BootCamp-TeamD/backend/assets/41982054/285c2d10-996f-45ba-9007-11791e5aca00" width="100px;" alt=""/>|<img src="https://github.com/SV-Winter-BootCamp-TeamD/backend/assets/41982054/285c2d10-996f-45ba-9007-11791e5aca00" width="100px;" alt=""/>|<img src="https://github.com/SV-Winter-BootCamp-TeamD/backend/assets/41982054/8fa4dd3f-cbf4-4b2e-83db-2c8ab66a4952" width="100px;" alt=""/>|<img src="https://github.com/SV-Winter-BootCamp-TeamD/backend/assets/41982054/6af238ba-82d5-469c-9d8f-1f2a4928952a" width="100px;" alt=""/>|<img src="https://github.com/SV-Winter-BootCamp-TeamD/backend/assets/41982054/6f64ffec-0153-45d3-8aab-e957f36b5fd2" width="100px;" alt=""/>|
+|<a href="https://github.com/Yujin-Baek" class="btn--top">백유진</a>|<a href="https://github.com/yjun0915" class="btn--top">김영준</a>|<a href="https://github.com/kubit2" class="btn--top">조희은</a>|<a href="https://github.com/Yejiin21" class="btn--top">고예진</a>|<a href="https://github.com/m3k0813" class="btn--top">민정준</a>|
+
