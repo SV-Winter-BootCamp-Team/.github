@@ -76,8 +76,8 @@
 
 Clone Repository
 
-```jsx
-https://github.com/SV-Winter-BootCamp-TeamD/backend.git
+```
+git clone https://github.com/SV-Winter-BootCamp-TeamD/backend.git
 ```
 
 ### .env setting in the Settings folder
@@ -112,7 +112,7 @@ PIXABAY_API_KEY=
 
 ### Run Docker
 
-```jsx
+```
 docker compose -f docker.compose.prod.yml up --build
 ```
 
@@ -451,7 +451,11 @@ docker compose -f docker.compose.prod.yml up --build
 
  ---
 ## 👨‍👩‍👧‍👦 Member
+
+<div align="center">
+  
 |Frontend<br>Leader|Frontend|Backend<br>DevOps|Backend|Backend|
 |:---:|:---:|:---:|:---:|:---:|
 |<img src="https://github.com/SV-Winter-BootCamp-TeamD/backend/assets/41982054/3ae5d4c1-0f0f-449c-9a1d-dc763b31c7e2" width="100px;" alt=""/>|<img src="https://github.com/SV-Winter-BootCamp-TeamD/backend/assets/41982054/285c2d10-996f-45ba-9007-11791e5aca00" width="100px;" alt=""/>|<img src="https://github.com/SV-Winter-BootCamp-TeamD/backend/assets/41982054/8fa4dd3f-cbf4-4b2e-83db-2c8ab66a4952" width="100px;" alt=""/>|<img src="https://github.com/SV-Winter-BootCamp-TeamD/backend/assets/41982054/6af238ba-82d5-469c-9d8f-1f2a4928952a" width="100px;" alt=""/>|<img src="https://github.com/SV-Winter-BootCamp-TeamD/backend/assets/41982054/6f64ffec-0153-45d3-8aab-e957f36b5fd2" width="100px;" alt=""/>|
 |<a href="https://github.com/Yujin-Baek" class="btn--top">백유진</a>|<a href="https://github.com/yjun0915" class="btn--top">김영준</a>|<a href="https://github.com/kubit2" class="btn--top">조희은</a>|<a href="https://github.com/Yejiin21" class="btn--top">고예진</a>|<a href="https://github.com/m3k0813" class="btn--top">민정준</a>|
+</div>
