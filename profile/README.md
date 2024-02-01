@@ -13,12 +13,12 @@
 <br>
 <br>
   
-<img src="https://github.com/SV-Winter-BootCamp-TeamD/backend/assets/41982054/0460ccb1-33f0-49e0-9a3d-d46ec1ea6431" width="500" height="500"/>
-<img src="https://github.com/SV-Winter-BootCamp-TeamD/backend/assets/41982054/1892b490-af41-40e8-8e88-588c07f4f80a" width="600" height="600"/>
-<img src="https://github.com/SV-Winter-BootCamp-TeamD/backend/assets/41982054/d23f5bd5-04c3-4b22-98d5-358764448baf" width="600" height="600"/>
-<img src="https://github.com/SV-Winter-BootCamp-TeamD/backend/assets/41982054/9e1065ea-93e1-43a5-93b3-b705efceb0a2" width="600" height="600"/>
-<img src="https://github.com/SV-Winter-BootCamp-TeamD/backend/assets/41982054/e260112a-5171-49db-9471-aefb384cf1ee" width="500" height="500"/>
-<img src="https://github.com/SV-Winter-BootCamp-TeamD/backend/assets/41982054/f8b563b6-777f-4cda-bb52-dadcaf917af3" width="600" height="600"/>
+<img src="https://github.com/SV-Winter-BootCamp-TeamD/backend/assets/41982054/4987ea99-ebc0-41c7-9c29-f64c307bc45d" width="1000" height="600"/>
+<img src="https://github.com/SV-Winter-BootCamp-TeamD/backend/assets/41982054/1892b490-af41-40e8-8e88-588c07f4f80a" width="1000" height="600"/>
+<img src="https://github.com/SV-Winter-BootCamp-TeamD/backend/assets/41982054/d23f5bd5-04c3-4b22-98d5-358764448baf" width="1000" height="600"/>
+<img src="https://github.com/SV-Winter-BootCamp-TeamD/backend/assets/41982054/9e1065ea-93e1-43a5-93b3-b705efceb0a2" width="1000" height="600"/>
+<img src="https://github.com/SV-Winter-BootCamp-TeamD/backend/assets/41982054/e260112a-5171-49db-9471-aefb384cf1ee" width="1000" height="600"/>
+<img src="https://github.com/SV-Winter-BootCamp-TeamD/backend/assets/41982054/f8b563b6-777f-4cda-bb52-dadcaf917af3" width="1000" height="600"/>
 
 
 ## 📘 Medium
