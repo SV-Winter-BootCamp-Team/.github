@@ -117,7 +117,7 @@ OPENAI_API_KEY=
 PIXABAY_API_KEY=
 ```
 
-### Run Docker
+Run Docker
 
 ```
 docker compose -f docker.compose.prod.yml up --build
