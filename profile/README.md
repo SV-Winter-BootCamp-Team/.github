@@ -9,9 +9,15 @@
   ### AI를 활용한 가상 배경 꾸미기 서비스
 </div>
 
+
+## 📘 Medium
+
+✔️ Introduction → medium링크 붙이기
+
 <br>
 <br>
-<br>
+
+## 🖥️ Demo
 
 - 온보딩 페이지
 <img src="https://github.com/SV-Winter-BootCamp-TeamD/backend/assets/41982054/4987ea99-ebc0-41c7-9c29-f64c307bc45d" width="1000" height="600"/>
@@ -42,10 +48,6 @@
 - 동시편집 기능
 <img src="https://github.com/SV-Winter-BootCamp-TeamD/backend/assets/41982054/f8b563b6-777f-4cda-bb52-dadcaf917af3" width="1000" height="600"/>
 
-
-## 📘 Medium
-
-✔️ Introduction → medium링크 붙이기
 <br>
 <br>
 
