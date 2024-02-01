@@ -12,12 +12,34 @@
 <br>
 <br>
 <br>
-  
+
+- 온보딩 페이지
 <img src="https://github.com/SV-Winter-BootCamp-TeamD/backend/assets/41982054/4987ea99-ebc0-41c7-9c29-f64c307bc45d" width="1000" height="600"/>
+
+
+<br>
+
+- 캔버스 생성하기
 <img src="https://github.com/SV-Winter-BootCamp-TeamD/backend/assets/41982054/1892b490-af41-40e8-8e88-588c07f4f80a" width="1000" height="600"/>
+
+<br>
+
+- 배경사진 직접 업로드
 <img src="https://github.com/SV-Winter-BootCamp-TeamD/backend/assets/41982054/d23f5bd5-04c3-4b22-98d5-358764448baf" width="1000" height="600"/>
+
+<br>
+
+- AI배경 생성하기
 <img src="https://github.com/SV-Winter-BootCamp-TeamD/backend/assets/41982054/9e1065ea-93e1-43a5-93b3-b705efceb0a2" width="1000" height="600"/>
-<img src="https://github.com/SV-Winter-BootCamp-TeamD/backend/assets/41982054/e260112a-5171-49db-9471-aefb384cf1ee" width="1000" height="600"/>
+
+<br>
+
+- AI스티커 생성하기
+<img src="https://github.com/SV-Winter-BootCamp-TeamD/backend/assets/41982054/16a57f5a-4d89-471b-89cf-7a5d928b0110" width="1000" height="600"/>
+
+<br>
+
+- 동시편집 기능
 <img src="https://github.com/SV-Winter-BootCamp-TeamD/backend/assets/41982054/f8b563b6-777f-4cda-bb52-dadcaf917af3" width="1000" height="600"/>
 
 
