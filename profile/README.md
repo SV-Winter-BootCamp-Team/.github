@@ -10,11 +10,11 @@
 </div>
 
 
-## 📘 Medium
+<div align="center">
+  
+  ### 📒 <a href="https://medium.com/@yujin.px/%EA%BE%B8%EB%A9%B0zoom-b304ae09cb7c" class="btn--medium">Medium</a>
+</div>
 
-✔️ Introduction → medium링크 붙이기
-
-<br>
 <br>
 
 ## 🖥️ Demo
